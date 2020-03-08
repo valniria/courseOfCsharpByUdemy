@@ -1,0 +1,11 @@
+C:\Valniria\Estudos\.Net\exerciciosPropostosOO_1\exerciciosPropostosOO_1\obj\Debug\netcoreapp3.1\exerciciosPropostosOO_1.AssemblyInfoInputs.cache
+C:\Valniria\Estudos\.Net\exerciciosPropostosOO_1\exerciciosPropostosOO_1\obj\Debug\netcoreapp3.1\exerciciosPropostosOO_1.AssemblyInfo.cs
+C:\Valniria\Estudos\.Net\exerciciosPropostosOO_1\exerciciosPropostosOO_1\bin\Debug\netcoreapp3.1\exerciciosPropostosOO_1.exe
+C:\Valniria\Estudos\.Net\exerciciosPropostosOO_1\exerciciosPropostosOO_1\bin\Debug\netcoreapp3.1\exerciciosPropostosOO_1.deps.json
+C:\Valniria\Estudos\.Net\exerciciosPropostosOO_1\exerciciosPropostosOO_1\bin\Debug\netcoreapp3.1\exerciciosPropostosOO_1.runtimeconfig.json
+C:\Valniria\Estudos\.Net\exerciciosPropostosOO_1\exerciciosPropostosOO_1\bin\Debug\netcoreapp3.1\exerciciosPropostosOO_1.runtimeconfig.dev.json
+C:\Valniria\Estudos\.Net\exerciciosPropostosOO_1\exerciciosPropostosOO_1\bin\Debug\netcoreapp3.1\exerciciosPropostosOO_1.dll
+C:\Valniria\Estudos\.Net\exerciciosPropostosOO_1\exerciciosPropostosOO_1\bin\Debug\netcoreapp3.1\exerciciosPropostosOO_1.pdb
+C:\Valniria\Estudos\.Net\exerciciosPropostosOO_1\exerciciosPropostosOO_1\obj\Debug\netcoreapp3.1\exerciciosPropostosOO_1.dll
+C:\Valniria\Estudos\.Net\exerciciosPropostosOO_1\exerciciosPropostosOO_1\obj\Debug\netcoreapp3.1\exerciciosPropostosOO_1.pdb
+C:\Valniria\Estudos\.Net\exerciciosPropostosOO_1\exerciciosPropostosOO_1\obj\Debug\netcoreapp3.1\exerciciosPropostosOO_1.csprojAssemblyReference.cache

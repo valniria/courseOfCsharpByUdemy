@@ -1,0 +1,11 @@
+C:\Valniria\Estudos\.Net\ExercicioFixacao1\ExercicioFixacao1\bin\Debug\netcoreapp3.1\ExercicioFixacao1.exe
+C:\Valniria\Estudos\.Net\ExercicioFixacao1\ExercicioFixacao1\bin\Debug\netcoreapp3.1\ExercicioFixacao1.deps.json
+C:\Valniria\Estudos\.Net\ExercicioFixacao1\ExercicioFixacao1\bin\Debug\netcoreapp3.1\ExercicioFixacao1.runtimeconfig.json
+C:\Valniria\Estudos\.Net\ExercicioFixacao1\ExercicioFixacao1\bin\Debug\netcoreapp3.1\ExercicioFixacao1.runtimeconfig.dev.json
+C:\Valniria\Estudos\.Net\ExercicioFixacao1\ExercicioFixacao1\bin\Debug\netcoreapp3.1\ExercicioFixacao1.dll
+C:\Valniria\Estudos\.Net\ExercicioFixacao1\ExercicioFixacao1\bin\Debug\netcoreapp3.1\ExercicioFixacao1.pdb
+C:\Valniria\Estudos\.Net\ExercicioFixacao1\ExercicioFixacao1\obj\Debug\netcoreapp3.1\ExercicioFixacao1.csprojAssemblyReference.cache
+C:\Valniria\Estudos\.Net\ExercicioFixacao1\ExercicioFixacao1\obj\Debug\netcoreapp3.1\ExercicioFixacao1.AssemblyInfoInputs.cache
+C:\Valniria\Estudos\.Net\ExercicioFixacao1\ExercicioFixacao1\obj\Debug\netcoreapp3.1\ExercicioFixacao1.AssemblyInfo.cs
+C:\Valniria\Estudos\.Net\ExercicioFixacao1\ExercicioFixacao1\obj\Debug\netcoreapp3.1\ExercicioFixacao1.dll
+C:\Valniria\Estudos\.Net\ExercicioFixacao1\ExercicioFixacao1\obj\Debug\netcoreapp3.1\ExercicioFixacao1.pdb

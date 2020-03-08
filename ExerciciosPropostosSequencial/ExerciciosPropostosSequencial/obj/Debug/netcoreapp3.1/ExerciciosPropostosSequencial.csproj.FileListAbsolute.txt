@@ -1,0 +1,11 @@
+C:\Valniria\Estudos\.Net\ExerciciosPropostosSequencial\ExerciciosPropostosSequencial\bin\Debug\netcoreapp3.1\ExerciciosPropostosSequencial.exe
+C:\Valniria\Estudos\.Net\ExerciciosPropostosSequencial\ExerciciosPropostosSequencial\bin\Debug\netcoreapp3.1\ExerciciosPropostosSequencial.deps.json
+C:\Valniria\Estudos\.Net\ExerciciosPropostosSequencial\ExerciciosPropostosSequencial\bin\Debug\netcoreapp3.1\ExerciciosPropostosSequencial.runtimeconfig.json
+C:\Valniria\Estudos\.Net\ExerciciosPropostosSequencial\ExerciciosPropostosSequencial\bin\Debug\netcoreapp3.1\ExerciciosPropostosSequencial.runtimeconfig.dev.json
+C:\Valniria\Estudos\.Net\ExerciciosPropostosSequencial\ExerciciosPropostosSequencial\bin\Debug\netcoreapp3.1\ExerciciosPropostosSequencial.dll
+C:\Valniria\Estudos\.Net\ExerciciosPropostosSequencial\ExerciciosPropostosSequencial\bin\Debug\netcoreapp3.1\ExerciciosPropostosSequencial.pdb
+C:\Valniria\Estudos\.Net\ExerciciosPropostosSequencial\ExerciciosPropostosSequencial\obj\Debug\netcoreapp3.1\ExerciciosPropostosSequencial.AssemblyInfoInputs.cache
+C:\Valniria\Estudos\.Net\ExerciciosPropostosSequencial\ExerciciosPropostosSequencial\obj\Debug\netcoreapp3.1\ExerciciosPropostosSequencial.AssemblyInfo.cs
+C:\Valniria\Estudos\.Net\ExerciciosPropostosSequencial\ExerciciosPropostosSequencial\obj\Debug\netcoreapp3.1\ExerciciosPropostosSequencial.dll
+C:\Valniria\Estudos\.Net\ExerciciosPropostosSequencial\ExerciciosPropostosSequencial\obj\Debug\netcoreapp3.1\ExerciciosPropostosSequencial.pdb
+C:\Valniria\Estudos\.Net\ExerciciosPropostosSequencial\ExerciciosPropostosSequencial\obj\Debug\netcoreapp3.1\ExerciciosPropostosSequencial.csprojAssemblyReference.cache

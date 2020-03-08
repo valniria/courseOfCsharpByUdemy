@@ -1,0 +1,11 @@
+C:\Valniria\Estudos\.Net\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.exe
+C:\Valniria\Estudos\.Net\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.deps.json
+C:\Valniria\Estudos\.Net\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.runtimeconfig.json
+C:\Valniria\Estudos\.Net\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.runtimeconfig.dev.json
+C:\Valniria\Estudos\.Net\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.dll
+C:\Valniria\Estudos\.Net\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.pdb
+C:\Valniria\Estudos\.Net\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.csprojAssemblyReference.cache
+C:\Valniria\Estudos\.Net\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.AssemblyInfoInputs.cache
+C:\Valniria\Estudos\.Net\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.AssemblyInfo.cs
+C:\Valniria\Estudos\.Net\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.dll
+C:\Valniria\Estudos\.Net\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.pdb

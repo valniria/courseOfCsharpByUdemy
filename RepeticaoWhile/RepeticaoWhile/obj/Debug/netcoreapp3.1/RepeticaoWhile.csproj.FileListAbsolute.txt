@@ -1,0 +1,11 @@
+C:\Valniria\Estudos\.Net\RepeticaoWhile\RepeticaoWhile\bin\Debug\netcoreapp3.1\RepeticaoWhile.exe
+C:\Valniria\Estudos\.Net\RepeticaoWhile\RepeticaoWhile\bin\Debug\netcoreapp3.1\RepeticaoWhile.deps.json
+C:\Valniria\Estudos\.Net\RepeticaoWhile\RepeticaoWhile\bin\Debug\netcoreapp3.1\RepeticaoWhile.runtimeconfig.json
+C:\Valniria\Estudos\.Net\RepeticaoWhile\RepeticaoWhile\bin\Debug\netcoreapp3.1\RepeticaoWhile.runtimeconfig.dev.json
+C:\Valniria\Estudos\.Net\RepeticaoWhile\RepeticaoWhile\bin\Debug\netcoreapp3.1\RepeticaoWhile.dll
+C:\Valniria\Estudos\.Net\RepeticaoWhile\RepeticaoWhile\bin\Debug\netcoreapp3.1\RepeticaoWhile.pdb
+C:\Valniria\Estudos\.Net\RepeticaoWhile\RepeticaoWhile\obj\Debug\netcoreapp3.1\RepeticaoWhile.csprojAssemblyReference.cache
+C:\Valniria\Estudos\.Net\RepeticaoWhile\RepeticaoWhile\obj\Debug\netcoreapp3.1\RepeticaoWhile.AssemblyInfoInputs.cache
+C:\Valniria\Estudos\.Net\RepeticaoWhile\RepeticaoWhile\obj\Debug\netcoreapp3.1\RepeticaoWhile.AssemblyInfo.cs
+C:\Valniria\Estudos\.Net\RepeticaoWhile\RepeticaoWhile\obj\Debug\netcoreapp3.1\RepeticaoWhile.dll
+C:\Valniria\Estudos\.Net\RepeticaoWhile\RepeticaoWhile\obj\Debug\netcoreapp3.1\RepeticaoWhile.pdb

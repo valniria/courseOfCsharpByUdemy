@@ -1,0 +1,11 @@
+C:\Valniria\Estudos\.Net\ExerciciosPropostosCondicionais\ExerciciosPropostosCondicionais\bin\Debug\netcoreapp3.1\ExerciciosPropostosCondicionais.exe
+C:\Valniria\Estudos\.Net\ExerciciosPropostosCondicionais\ExerciciosPropostosCondicionais\bin\Debug\netcoreapp3.1\ExerciciosPropostosCondicionais.deps.json
+C:\Valniria\Estudos\.Net\ExerciciosPropostosCondicionais\ExerciciosPropostosCondicionais\bin\Debug\netcoreapp3.1\ExerciciosPropostosCondicionais.runtimeconfig.json
+C:\Valniria\Estudos\.Net\ExerciciosPropostosCondicionais\ExerciciosPropostosCondicionais\bin\Debug\netcoreapp3.1\ExerciciosPropostosCondicionais.runtimeconfig.dev.json
+C:\Valniria\Estudos\.Net\ExerciciosPropostosCondicionais\ExerciciosPropostosCondicionais\bin\Debug\netcoreapp3.1\ExerciciosPropostosCondicionais.dll
+C:\Valniria\Estudos\.Net\ExerciciosPropostosCondicionais\ExerciciosPropostosCondicionais\bin\Debug\netcoreapp3.1\ExerciciosPropostosCondicionais.pdb
+C:\Valniria\Estudos\.Net\ExerciciosPropostosCondicionais\ExerciciosPropostosCondicionais\obj\Debug\netcoreapp3.1\ExerciciosPropostosCondicionais.csprojAssemblyReference.cache
+C:\Valniria\Estudos\.Net\ExerciciosPropostosCondicionais\ExerciciosPropostosCondicionais\obj\Debug\netcoreapp3.1\ExerciciosPropostosCondicionais.AssemblyInfoInputs.cache
+C:\Valniria\Estudos\.Net\ExerciciosPropostosCondicionais\ExerciciosPropostosCondicionais\obj\Debug\netcoreapp3.1\ExerciciosPropostosCondicionais.AssemblyInfo.cs
+C:\Valniria\Estudos\.Net\ExerciciosPropostosCondicionais\ExerciciosPropostosCondicionais\obj\Debug\netcoreapp3.1\ExerciciosPropostosCondicionais.dll
+C:\Valniria\Estudos\.Net\ExerciciosPropostosCondicionais\ExerciciosPropostosCondicionais\obj\Debug\netcoreapp3.1\ExerciciosPropostosCondicionais.pdb

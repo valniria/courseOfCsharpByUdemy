@@ -1,0 +1,11 @@
+C:\Valniria\Estudos\.Net\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.exe
+C:\Valniria\Estudos\.Net\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.deps.json
+C:\Valniria\Estudos\.Net\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.runtimeconfig.json
+C:\Valniria\Estudos\.Net\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.runtimeconfig.dev.json
+C:\Valniria\Estudos\.Net\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.dll
+C:\Valniria\Estudos\.Net\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.pdb
+C:\Valniria\Estudos\.Net\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.csprojAssemblyReference.cache
+C:\Valniria\Estudos\.Net\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.AssemblyInfoInputs.cache
+C:\Valniria\Estudos\.Net\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.AssemblyInfo.cs
+C:\Valniria\Estudos\.Net\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.dll
+C:\Valniria\Estudos\.Net\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.pdb

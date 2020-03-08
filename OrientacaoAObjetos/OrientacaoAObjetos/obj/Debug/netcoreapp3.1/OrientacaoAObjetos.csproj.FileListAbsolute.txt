@@ -1,0 +1,11 @@
+C:\Valniria\Estudos\.Net\OrientacaoAObjetos\OrientacaoAObjetos\bin\Debug\netcoreapp3.1\OrientacaoAObjetos.exe
+C:\Valniria\Estudos\.Net\OrientacaoAObjetos\OrientacaoAObjetos\bin\Debug\netcoreapp3.1\OrientacaoAObjetos.deps.json
+C:\Valniria\Estudos\.Net\OrientacaoAObjetos\OrientacaoAObjetos\bin\Debug\netcoreapp3.1\OrientacaoAObjetos.runtimeconfig.json
+C:\Valniria\Estudos\.Net\OrientacaoAObjetos\OrientacaoAObjetos\bin\Debug\netcoreapp3.1\OrientacaoAObjetos.runtimeconfig.dev.json
+C:\Valniria\Estudos\.Net\OrientacaoAObjetos\OrientacaoAObjetos\bin\Debug\netcoreapp3.1\OrientacaoAObjetos.dll
+C:\Valniria\Estudos\.Net\OrientacaoAObjetos\OrientacaoAObjetos\bin\Debug\netcoreapp3.1\OrientacaoAObjetos.pdb
+C:\Valniria\Estudos\.Net\OrientacaoAObjetos\OrientacaoAObjetos\obj\Debug\netcoreapp3.1\OrientacaoAObjetos.csprojAssemblyReference.cache
+C:\Valniria\Estudos\.Net\OrientacaoAObjetos\OrientacaoAObjetos\obj\Debug\netcoreapp3.1\OrientacaoAObjetos.AssemblyInfoInputs.cache
+C:\Valniria\Estudos\.Net\OrientacaoAObjetos\OrientacaoAObjetos\obj\Debug\netcoreapp3.1\OrientacaoAObjetos.AssemblyInfo.cs
+C:\Valniria\Estudos\.Net\OrientacaoAObjetos\OrientacaoAObjetos\obj\Debug\netcoreapp3.1\OrientacaoAObjetos.dll
+C:\Valniria\Estudos\.Net\OrientacaoAObjetos\OrientacaoAObjetos\obj\Debug\netcoreapp3.1\OrientacaoAObjetos.pdb

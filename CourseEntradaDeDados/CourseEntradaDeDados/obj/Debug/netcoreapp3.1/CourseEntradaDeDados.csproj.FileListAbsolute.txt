@@ -1,0 +1,11 @@
+C:\Valniria\Estudos\.Net\CourseEntradaDeDados\CourseEntradaDeDados\bin\Debug\netcoreapp3.1\CourseEntradaDeDados.exe
+C:\Valniria\Estudos\.Net\CourseEntradaDeDados\CourseEntradaDeDados\bin\Debug\netcoreapp3.1\CourseEntradaDeDados.deps.json
+C:\Valniria\Estudos\.Net\CourseEntradaDeDados\CourseEntradaDeDados\bin\Debug\netcoreapp3.1\CourseEntradaDeDados.runtimeconfig.json
+C:\Valniria\Estudos\.Net\CourseEntradaDeDados\CourseEntradaDeDados\bin\Debug\netcoreapp3.1\CourseEntradaDeDados.runtimeconfig.dev.json
+C:\Valniria\Estudos\.Net\CourseEntradaDeDados\CourseEntradaDeDados\bin\Debug\netcoreapp3.1\CourseEntradaDeDados.dll
+C:\Valniria\Estudos\.Net\CourseEntradaDeDados\CourseEntradaDeDados\bin\Debug\netcoreapp3.1\CourseEntradaDeDados.pdb
+C:\Valniria\Estudos\.Net\CourseEntradaDeDados\CourseEntradaDeDados\obj\Debug\netcoreapp3.1\CourseEntradaDeDados.csprojAssemblyReference.cache
+C:\Valniria\Estudos\.Net\CourseEntradaDeDados\CourseEntradaDeDados\obj\Debug\netcoreapp3.1\CourseEntradaDeDados.AssemblyInfoInputs.cache
+C:\Valniria\Estudos\.Net\CourseEntradaDeDados\CourseEntradaDeDados\obj\Debug\netcoreapp3.1\CourseEntradaDeDados.AssemblyInfo.cs
+C:\Valniria\Estudos\.Net\CourseEntradaDeDados\CourseEntradaDeDados\obj\Debug\netcoreapp3.1\CourseEntradaDeDados.dll
+C:\Valniria\Estudos\.Net\CourseEntradaDeDados\CourseEntradaDeDados\obj\Debug\netcoreapp3.1\CourseEntradaDeDados.pdb
