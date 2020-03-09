@@ -1,4 +1,6 @@
-﻿using System;
+﻿
+using System;
+using System.Globalization;
 
 namespace ConsoleApp1
 {
@@ -11,8 +13,18 @@ namespace ConsoleApp1
 
             double[] vect = new double[n];
 
+            for(int i=0; i < n; i++)
+            {
+                vect[i] = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            }
 
+            double sum = 0.0;
 
+            for(int i = 0; i < n; i++)
+            {
+                sum += vect[i];
+            }
+            Console.WriteLine("Average height: " + (sum/n).ToString("F2",CultureInfo.InvariantCulture));
         }
     }
 }

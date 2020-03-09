@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Valniria\\Estudos\\.Net\\courseOfCsharpByUdemy\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Valniria\\Estudos\\.Net\\courseOfCsharpByUdemy\\Exercicio_Vetores\\Exercicio_Vetores\\Exercicio_Vetores.csproj": {}
   },
   "projects": {
-    "C:\\Valniria\\Estudos\\.Net\\courseOfCsharpByUdemy\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Valniria\\Estudos\\.Net\\courseOfCsharpByUdemy\\Exercicio_Vetores\\Exercicio_Vetores\\Exercicio_Vetores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Valniria\\Estudos\\.Net\\courseOfCsharpByUdemy\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Valniria\\Estudos\\.Net\\courseOfCsharpByUdemy\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Valniria\\Estudos\\.Net\\courseOfCsharpByUdemy\\Exercicio_Vetores\\Exercicio_Vetores\\Exercicio_Vetores.csproj",
+        "projectName": "Exercicio_Vetores",
+        "projectPath": "C:\\Valniria\\Estudos\\.Net\\courseOfCsharpByUdemy\\Exercicio_Vetores\\Exercicio_Vetores\\Exercicio_Vetores.csproj",
         "packagesPath": "C:\\Users\\valni\\.nuget\\packages\\",
-        "outputPath": "C:\\Valniria\\Estudos\\.Net\\courseOfCsharpByUdemy\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Valniria\\Estudos\\.Net\\courseOfCsharpByUdemy\\Exercicio_Vetores\\Exercicio_Vetores\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\valni\\AppData\\Roaming\\NuGet\\NuGet.Config",

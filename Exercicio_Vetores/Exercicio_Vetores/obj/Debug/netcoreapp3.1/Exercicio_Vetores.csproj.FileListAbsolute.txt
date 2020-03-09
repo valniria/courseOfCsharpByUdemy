@@ -1,0 +1,11 @@
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\Exercicio_Vetores\Exercicio_Vetores\bin\Debug\netcoreapp3.1\Exercicio_Vetores.exe
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\Exercicio_Vetores\Exercicio_Vetores\bin\Debug\netcoreapp3.1\Exercicio_Vetores.deps.json
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\Exercicio_Vetores\Exercicio_Vetores\bin\Debug\netcoreapp3.1\Exercicio_Vetores.runtimeconfig.json
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\Exercicio_Vetores\Exercicio_Vetores\bin\Debug\netcoreapp3.1\Exercicio_Vetores.runtimeconfig.dev.json
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\Exercicio_Vetores\Exercicio_Vetores\bin\Debug\netcoreapp3.1\Exercicio_Vetores.dll
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\Exercicio_Vetores\Exercicio_Vetores\bin\Debug\netcoreapp3.1\Exercicio_Vetores.pdb
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\Exercicio_Vetores\Exercicio_Vetores\obj\Debug\netcoreapp3.1\Exercicio_Vetores.csprojAssemblyReference.cache
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\Exercicio_Vetores\Exercicio_Vetores\obj\Debug\netcoreapp3.1\Exercicio_Vetores.AssemblyInfoInputs.cache
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\Exercicio_Vetores\Exercicio_Vetores\obj\Debug\netcoreapp3.1\Exercicio_Vetores.AssemblyInfo.cs
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\Exercicio_Vetores\Exercicio_Vetores\obj\Debug\netcoreapp3.1\Exercicio_Vetores.dll
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\Exercicio_Vetores\Exercicio_Vetores\obj\Debug\netcoreapp3.1\Exercicio_Vetores.pdb
