@@ -1,0 +1,11 @@
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\ExercicioFixacao8\ExercicioFixacao8\bin\Debug\netcoreapp3.1\ExercicioFixacao8.exe
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\ExercicioFixacao8\ExercicioFixacao8\bin\Debug\netcoreapp3.1\ExercicioFixacao8.deps.json
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\ExercicioFixacao8\ExercicioFixacao8\bin\Debug\netcoreapp3.1\ExercicioFixacao8.runtimeconfig.json
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\ExercicioFixacao8\ExercicioFixacao8\bin\Debug\netcoreapp3.1\ExercicioFixacao8.runtimeconfig.dev.json
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\ExercicioFixacao8\ExercicioFixacao8\bin\Debug\netcoreapp3.1\ExercicioFixacao8.dll
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\ExercicioFixacao8\ExercicioFixacao8\bin\Debug\netcoreapp3.1\ExercicioFixacao8.pdb
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\ExercicioFixacao8\ExercicioFixacao8\obj\Debug\netcoreapp3.1\ExercicioFixacao8.csprojAssemblyReference.cache
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\ExercicioFixacao8\ExercicioFixacao8\obj\Debug\netcoreapp3.1\ExercicioFixacao8.AssemblyInfoInputs.cache
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\ExercicioFixacao8\ExercicioFixacao8\obj\Debug\netcoreapp3.1\ExercicioFixacao8.AssemblyInfo.cs
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\ExercicioFixacao8\ExercicioFixacao8\obj\Debug\netcoreapp3.1\ExercicioFixacao8.dll
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\ExercicioFixacao8\ExercicioFixacao8\obj\Debug\netcoreapp3.1\ExercicioFixacao8.pdb

@@ -1,0 +1,11 @@
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.csprojAssemblyReference.cache
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.AssemblyInfoInputs.cache
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.AssemblyInfo.cs
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\StringBuilder\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.exe
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\StringBuilder\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.deps.json
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\StringBuilder\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.runtimeconfig.json
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\StringBuilder\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.runtimeconfig.dev.json
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\StringBuilder\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.dll
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\StringBuilder\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.pdb
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.dll
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.pdb

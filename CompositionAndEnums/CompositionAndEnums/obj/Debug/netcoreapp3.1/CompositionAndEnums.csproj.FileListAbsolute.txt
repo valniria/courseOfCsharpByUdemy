@@ -1,0 +1,11 @@
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\CompositionAndEnums\CompositionAndEnums\bin\Debug\netcoreapp3.1\CompositionAndEnums.exe
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\CompositionAndEnums\CompositionAndEnums\bin\Debug\netcoreapp3.1\CompositionAndEnums.deps.json
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\CompositionAndEnums\CompositionAndEnums\bin\Debug\netcoreapp3.1\CompositionAndEnums.runtimeconfig.json
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\CompositionAndEnums\CompositionAndEnums\bin\Debug\netcoreapp3.1\CompositionAndEnums.runtimeconfig.dev.json
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\CompositionAndEnums\CompositionAndEnums\bin\Debug\netcoreapp3.1\CompositionAndEnums.dll
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\CompositionAndEnums\CompositionAndEnums\bin\Debug\netcoreapp3.1\CompositionAndEnums.pdb
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\CompositionAndEnums\CompositionAndEnums\obj\Debug\netcoreapp3.1\CompositionAndEnums.csprojAssemblyReference.cache
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\CompositionAndEnums\CompositionAndEnums\obj\Debug\netcoreapp3.1\CompositionAndEnums.AssemblyInfoInputs.cache
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\CompositionAndEnums\CompositionAndEnums\obj\Debug\netcoreapp3.1\CompositionAndEnums.AssemblyInfo.cs
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\CompositionAndEnums\CompositionAndEnums\obj\Debug\netcoreapp3.1\CompositionAndEnums.dll
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\CompositionAndEnums\CompositionAndEnums\obj\Debug\netcoreapp3.1\CompositionAndEnums.pdb
