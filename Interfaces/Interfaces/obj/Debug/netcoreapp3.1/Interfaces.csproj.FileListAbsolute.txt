@@ -1,0 +1,11 @@
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csprojAssemblyReference.cache
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
