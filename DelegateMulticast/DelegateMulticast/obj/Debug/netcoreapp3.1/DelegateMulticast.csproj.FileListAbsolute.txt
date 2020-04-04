@@ -1,0 +1,11 @@
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\DelegateMulticast\DelegateMulticast\bin\Debug\netcoreapp3.1\DelegateMulticast.exe
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\DelegateMulticast\DelegateMulticast\bin\Debug\netcoreapp3.1\DelegateMulticast.deps.json
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\DelegateMulticast\DelegateMulticast\bin\Debug\netcoreapp3.1\DelegateMulticast.runtimeconfig.json
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\DelegateMulticast\DelegateMulticast\bin\Debug\netcoreapp3.1\DelegateMulticast.runtimeconfig.dev.json
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\DelegateMulticast\DelegateMulticast\bin\Debug\netcoreapp3.1\DelegateMulticast.dll
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\DelegateMulticast\DelegateMulticast\bin\Debug\netcoreapp3.1\DelegateMulticast.pdb
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\DelegateMulticast\DelegateMulticast\obj\Debug\netcoreapp3.1\DelegateMulticast.csprojAssemblyReference.cache
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\DelegateMulticast\DelegateMulticast\obj\Debug\netcoreapp3.1\DelegateMulticast.AssemblyInfoInputs.cache
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\DelegateMulticast\DelegateMulticast\obj\Debug\netcoreapp3.1\DelegateMulticast.AssemblyInfo.cs
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\DelegateMulticast\DelegateMulticast\obj\Debug\netcoreapp3.1\DelegateMulticast.dll
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\DelegateMulticast\DelegateMulticast\obj\Debug\netcoreapp3.1\DelegateMulticast.pdb
