@@ -14,12 +14,17 @@ namespace DelegatePredicate
             list.Add(new Product("Tablet", 350.50));
             list.Add(new Product("HD Case", 80.90));
 
-            list.RemoveAll(x => x.Price >= 100.0);
+            list.RemoveAll(RemoveProductWithPriceMoreOrEqualThanThousand);
 
             foreach(Product product in list)
             {
                 Console.WriteLine(product);
             }
+        }
+
+        public static bool RemoveProductWithPriceMoreOrEqualThanThousand(Product product)
+        {
+            return product.Price >= 100.0;
         }
     }
 }
