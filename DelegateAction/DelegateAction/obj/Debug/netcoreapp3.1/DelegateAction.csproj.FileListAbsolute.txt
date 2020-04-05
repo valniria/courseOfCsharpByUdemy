@@ -1,0 +1,10 @@
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\DelegateAction\DelegateAction\bin\Debug\netcoreapp3.1\DelegateAction.exe
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\DelegateAction\DelegateAction\bin\Debug\netcoreapp3.1\DelegateAction.deps.json
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\DelegateAction\DelegateAction\bin\Debug\netcoreapp3.1\DelegateAction.runtimeconfig.json
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\DelegateAction\DelegateAction\bin\Debug\netcoreapp3.1\DelegateAction.runtimeconfig.dev.json
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\DelegateAction\DelegateAction\bin\Debug\netcoreapp3.1\DelegateAction.dll
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\DelegateAction\DelegateAction\bin\Debug\netcoreapp3.1\DelegateAction.pdb
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\DelegateAction\DelegateAction\obj\Debug\netcoreapp3.1\DelegateAction.AssemblyInfoInputs.cache
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\DelegateAction\DelegateAction\obj\Debug\netcoreapp3.1\DelegateAction.AssemblyInfo.cs
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\DelegateAction\DelegateAction\obj\Debug\netcoreapp3.1\DelegateAction.dll
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\DelegateAction\DelegateAction\obj\Debug\netcoreapp3.1\DelegateAction.pdb
