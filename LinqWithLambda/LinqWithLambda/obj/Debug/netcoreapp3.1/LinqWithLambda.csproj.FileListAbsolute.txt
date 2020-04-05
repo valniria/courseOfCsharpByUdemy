@@ -1,0 +1,11 @@
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\LinqWithLambda\LinqWithLambda\bin\Debug\netcoreapp3.1\LinqWithLambda.exe
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\LinqWithLambda\LinqWithLambda\bin\Debug\netcoreapp3.1\LinqWithLambda.deps.json
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\LinqWithLambda\LinqWithLambda\bin\Debug\netcoreapp3.1\LinqWithLambda.runtimeconfig.json
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\LinqWithLambda\LinqWithLambda\bin\Debug\netcoreapp3.1\LinqWithLambda.runtimeconfig.dev.json
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\LinqWithLambda\LinqWithLambda\bin\Debug\netcoreapp3.1\LinqWithLambda.dll
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\LinqWithLambda\LinqWithLambda\bin\Debug\netcoreapp3.1\LinqWithLambda.pdb
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\LinqWithLambda\LinqWithLambda\obj\Debug\netcoreapp3.1\LinqWithLambda.csprojAssemblyReference.cache
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\LinqWithLambda\LinqWithLambda\obj\Debug\netcoreapp3.1\LinqWithLambda.AssemblyInfoInputs.cache
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\LinqWithLambda\LinqWithLambda\obj\Debug\netcoreapp3.1\LinqWithLambda.AssemblyInfo.cs
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\LinqWithLambda\LinqWithLambda\obj\Debug\netcoreapp3.1\LinqWithLambda.dll
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\LinqWithLambda\LinqWithLambda\obj\Debug\netcoreapp3.1\LinqWithLambda.pdb
