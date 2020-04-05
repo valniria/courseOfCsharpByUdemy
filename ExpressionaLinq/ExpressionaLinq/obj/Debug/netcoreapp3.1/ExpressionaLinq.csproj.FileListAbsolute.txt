@@ -1,0 +1,11 @@
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\ExpressionaLinq\ExpressionaLinq\bin\Debug\netcoreapp3.1\ExpressionaLinq.exe
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\ExpressionaLinq\ExpressionaLinq\bin\Debug\netcoreapp3.1\ExpressionaLinq.deps.json
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\ExpressionaLinq\ExpressionaLinq\bin\Debug\netcoreapp3.1\ExpressionaLinq.runtimeconfig.json
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\ExpressionaLinq\ExpressionaLinq\bin\Debug\netcoreapp3.1\ExpressionaLinq.runtimeconfig.dev.json
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\ExpressionaLinq\ExpressionaLinq\bin\Debug\netcoreapp3.1\ExpressionaLinq.dll
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\ExpressionaLinq\ExpressionaLinq\bin\Debug\netcoreapp3.1\ExpressionaLinq.pdb
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\ExpressionaLinq\ExpressionaLinq\obj\Debug\netcoreapp3.1\ExpressionaLinq.csprojAssemblyReference.cache
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\ExpressionaLinq\ExpressionaLinq\obj\Debug\netcoreapp3.1\ExpressionaLinq.AssemblyInfoInputs.cache
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\ExpressionaLinq\ExpressionaLinq\obj\Debug\netcoreapp3.1\ExpressionaLinq.AssemblyInfo.cs
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\ExpressionaLinq\ExpressionaLinq\obj\Debug\netcoreapp3.1\ExpressionaLinq.dll
+C:\Valniria\Estudos\.Net\courseOfCsharpByUdemy\ExpressionaLinq\ExpressionaLinq\obj\Debug\netcoreapp3.1\ExpressionaLinq.pdb
